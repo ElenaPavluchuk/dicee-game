@@ -8,7 +8,18 @@ Features:
 - "Refresh Me" title updates with the result
 - Custom fonts and styling for a playful design
 
-<pre><code> Project Structure: ``` Dicee/ │ ├── index.html # Main HTML file ├── styles.css # Stylesheet ├── index.js # Game logic └── images/ # Dice face images (dice1.png - dice6.png) ``` </code></pre>
+<pre><code> 
+
+Project Structure: 
+``` 
+Dicee/ 
+│ 
+├── index.html # Main HTML file 
+├── styles.css # Stylesheet 
+├── index.js # Game logic 
+└── images/ # Dice face images (dice1.png - dice6.png) 
+``` 
+</code></pre>
 
 How to Run:
 
